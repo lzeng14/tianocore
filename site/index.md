@@ -22,7 +22,7 @@ github username.
 2. Go to the settings for your forked repo and rename it from
    tianocore.github.io to tianocore
 
-3. Test the forked website at <http://your_username.github.io/tianocore>
+3. Test the forked website at <https://your_username.github.io/tianocore>
 
 4. Clone your forked repo. For example:
 
@@ -44,7 +44,7 @@ github username.
 
    `$`**`git push origin gh-pages`**
 
-8. Reload the forked website at <http://your_username.github.io/tianocore>
+8. Reload the forked website at <https://your_username.github.io/tianocore>
 
 9. Let us know about your changes on [edk2-devel]({{wiki}}/Edk2-devel)
    and we'll take a look to see if we can use them on the main site
@@ -74,7 +74,7 @@ that is also a git repository. Therefore, you can copy the tianocore
 wiki to your tianocore project's wiki by cloning the main wiki, and
 then pushing it to your wiki:
 
-`$`**`git clone https://github.com/tianocore/tianocore.github.io.wiki`**
+`$`**`git clone https://github.com/tianocore/tianocore.github.io.wiki.git`**
 
 `$`**`cd tianocore.github.io.wiki`**
 
